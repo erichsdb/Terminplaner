@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Terminplaner</string>
+    <string name="no_reminders">Es liegen keine Termine vor</string>
+    <string name="title">Titel</string>
+    <string name="body">Beschreibung</string>
+    <string name="reminder_date">Erinnerungsdatum</string>
+    <string name="reminder_time">Erinnerungszeit</string>
+    <string name="date">Erinnerungsdatum</string>
+    <string name="time">Uhrzeit</string>
+    <string name="confirm">Speichern</string>
+</resources>
